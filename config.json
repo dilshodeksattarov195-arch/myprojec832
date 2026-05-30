@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "invoicedetch",
+        "uuid": 3074240,
+        "checksum": "pqi7lk"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
